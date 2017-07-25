@@ -1,5 +1,6 @@
 #include "sayHello.h"
+#include <iostream>
 void sayHello()
 {
-	std::count<<"Hello world"<<std::endl;
+	std::cout<<"Hello world"<<std::endl;
 }
